@@ -12,6 +12,7 @@ informieren kann.
   - Allgemeine Erstinformation und Kontaktvermittlung (Behördennummer):
     115
       - \[[www.115.de](https://www.115.de)\[
+  - Deutsche Bahn bei Fahrt mit Verdachtsfall: 0800 5 14 15 14  <https://bahn.de/corona>
 
 ## Länderspezifisch
 
